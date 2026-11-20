@@ -31,6 +31,10 @@ htmlcov/
 # Project-generated local files
 docs/
 
+# 本地抓取/分析运行日志
+run_*.log
+detail.log
+
 # Local skill tooling config (baoyu-image-gen etc.)
 .baoyu-skills/
 
